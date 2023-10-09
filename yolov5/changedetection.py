@@ -6,7 +6,7 @@ from datetime import datetime
 
 class ChangeDetection:
     result_prev = []
-    HOST = 'http://127.0.0.1:8000'
+    HOST = 'http://anonlim.pythonanywhere.com/'
     username = 'admin'
     password = '0000'
     token = '2544a6a9c140b31f9da81ee112b0233ae02993f8'
